@@ -13,6 +13,3 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Servidor de desenvolvimento
 
 Execute `ng serve` para um servidor dev. Navegue em `http://localhost:4200/`. A aplicação será recarregada automaticamente se você alterar qualquer um dos arquivos de origem.
-
-## Utilizando o projeto
-Desenvolvido pela `3Sis Tecnologia` http://3sis.com.br
